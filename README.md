@@ -1,4 +1,4 @@
-# Hi, I'm Kittiphum Uamthon <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="30px">
+# Hi, I'm Kittiphum Uamthon <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="55px">
 
 #### Education 
       2020 - NOW : King Mongkut's University of Technology Thonburi, Bangkok, Thailand B.Sc. (Information Technology)
